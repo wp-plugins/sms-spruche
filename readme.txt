@@ -11,9 +11,8 @@ The SMS Sprüche Widget shows german SMS Sprüche as a Widget
 == Description ==
 
 The SMS Sprüche widget allows you to insert SMS Spüche in your Wordpress Blog. 
-It allows you, too inserted SMS Sprüche into your Wordpress Blog and show the
-SMS Sprüche in a Widget. This makes it easy to show a widget with the SMS 
-Sprüche.
+It allows you to inserted SMS Sprüche into your Wordpress Blog and show the
+SMS Sprüche in a Widget. 
 
 == Installation ==
 
