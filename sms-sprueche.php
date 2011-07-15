@@ -223,9 +223,11 @@ function uncheck(name)
 <?
 	if (!function_exists ("curl_version"))
 	{
-		// TODO: Link: How to enable curl?
 ?>
-		<center><h3 style='color:red;'>You need to enable curl first.</h3></center>
+		<center>
+		<h3 style='color:red;'>You need to enable curl first.</h3>
+		<a href='http://www.php.net/manual/en/book.curl.php'>PHP Curl Info</a><br>
+		</center>
 <?
 	}
 ?>
