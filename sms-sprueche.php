@@ -4,7 +4,7 @@ Plugin Name: SMS Sprüche widget
 Plugin URI: http://sms-sprüche.org/
 Description: A widget that will show SMS Sprüche in your sidebar. You can select how many SMS Sprüche should be shown. You can select SMS Sprüche from different categroies.
 Author: Michael Jentsch
-Version: 0.1
+Version: 0.2
 Author URI: http://m-software.de/
 License: GPL2
 
