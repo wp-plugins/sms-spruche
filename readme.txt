@@ -4,7 +4,7 @@ Tags: sms sprüche, widget
 Homepage: http://www.sms-sprüche.org/
 Requires at least: 2.8
 Tested up to: 3.2
-Stable tag: trunk
+Stable tag: 0.2
 
 The SMS Sprüche Widget shows german SMS Sprüche as a Widget
 
