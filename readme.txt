@@ -4,7 +4,7 @@ Tags: sms sprüche, widget
 Homepage: http://www.sms-sprüche.org/
 Requires at least: 2.8
 Tested up to: 3.2
-Stable tag: 0.2
+Stable tag: 0.3
 
 The SMS Sprüche Widget shows german SMS Sprüche as a Widget
 
@@ -46,5 +46,9 @@ Here you can see, how to use the widget.
 3. You can open the configuration dialog of the widget and configure the settings for your wordpress blog.
 
 == Changelog ==
+
+V0.3 CSS class and id for easy css styling
+
+V0.2 Minor changes
 
 V0.1 Initial Version
